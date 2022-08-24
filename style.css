@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kufam:ital,wght@0,400;1,600&family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;400&family=Kufam:ital,wght@0,400;1,600&family=Markazi+Text:wght@400;500&family=Metal+Mania&family=Reem+Kufi:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=Rakkas&display=swap');
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: #efe9cc;
+}
+
+.body {
+    direction: rtl;
+    background-color: #FFF5DA;
+}
+
+.heading1 {
+    float: left;
+    margin: 10px 0 0 10px;
+}
+
+header {
+    width: 100%;
+    overflow: hidden;
+    background-color: #F5ABC9;
+    font-family: 'Kufam', sans-serif;
+    text-decoration: none;
+    margin: normal;
+}
+
+h1 {
+    text-align: center;
+    padding: 3px;
+    font-family: 'Open Sans', sans-serif;
+    color: #E93fff;
+    font-family: 'Kufam', sans-serif;
+}
+
+span {
+    color: #E93fff;
+    font-family: 'Kufam', sans-serif;
+}
+
+ul {
+    float: right; 
+    margin: 10px;
+}
+
+li {
+    display: inline-block;
+   
+    padding: 15px 30px;
+}
+
+a {
+    text-align: center;
+    color: #F5ABC9;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vm;
+    font-family: 'Kufam', sans-serif;
+}
+
+a:hover {
+    color: #100357;
+    background-color: #e93bff;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.div1 {
+    width: 280px;
+    height: 480px;
+    padding: 8px;
+    float: left;
+    margin: 20px;
+    background-color: #F5ABC9;
+    font-family: 'Aref Ruqaa', serif;
+    font-size: 11px;
+}
+
+.div1 .ha {
+    background-color: #F5ABC9;
+    font-size: 30px;
+}
+
+.ha {
+    color: #000;
+}
+
+.imga {
+    width: 260px;
+    height: 290px;
+}
+
+.pa {
+    color: #000;
+    background-color: #F5ABC9;
+}
+
+.aa {
+    background-color: #F5ABC9;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.p2 {
+    background-color: #FC5404;
+    color: #0d0633;
+    text-align: center;
+    height: auto;
+}
+
+.aa {
+    display: block;
+}
+
+.cont {
+    display: flex;
+}
+
+.cont div {
+    border: 1px solid #D6D2C4;
+}
+
+.box-1 {
+    padding-right: 50px;
+}
+
+.box-2 {
+    padding-right: 50px;
+}
+
+.box-3 {
+    padding-right: 50px;
+}
+
+.box-4 {
+    padding-right: 50px;
+}
